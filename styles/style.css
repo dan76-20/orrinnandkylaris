@@ -33,6 +33,7 @@ header {
     margin: 2rem;
     display: grid;
     grid-template-columns: .5fr 2fr 2fr 2fr;
+    background-image: linear-gradient(red, rgb(23, 103, 231));
 }
 
 nav {
